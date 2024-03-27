@@ -1,12 +1,12 @@
 repo_name: dabhi99/dabhi-repo
-report_id: 3001443a65d0cf61ae56914203bde758
+report_id: 4e09c757c2f450b03bc0825c70715961
 version: 0.1
 repo_type: Public
-timestamp: '2024-03-18T12:30:40+00:00'
+timestamp: '2024-03-27T13:58:54+00:00'
 requested_by: dabhi99
 provider: github
 branch: main
-detected_tools_count: 11
+detected_tools_count: 12
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -80,6 +80,15 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/dabhi99/dabhi-repo/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dabhi99
+  last_updated_on: 2024-01-30 12:42:34.000000000 Z
+- name: NPM Trends
+  website_url: https://www.npmtrends.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
   detection_source_url: https://github.com/dabhi99/dabhi-repo/blob/main/package.json
   detection_source: package.json
   last_updated_by: dabhi99
